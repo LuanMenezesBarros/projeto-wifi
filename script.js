@@ -22,3 +22,4 @@ if (verificarSeguimento()) {
 } else {
     alert("Você precisa seguir a página para obter a senha do Wi-Fi.");
 }
+// isso é legal 
